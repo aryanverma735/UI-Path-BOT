@@ -26,9 +26,3 @@ This UiPath automation bot streamlines the **ticket creation process** by automa
 - .NET Framework 4.6.1 or higher
 - Valid credentials stored securely in **Orchestrator Assets** or **Windows Credential Manager**
 
----
-
-##  Setup Instructions
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
